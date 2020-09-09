@@ -1,0 +1,121 @@
+body
+{
+    background-color:rgb(26, 60, 134);
+    position: absolute;
+    top: 18%;
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+}
+
+div
+{
+     background-color: white;
+     width: 48%;
+     margin: auto;
+     padding: 12px;
+     margin-bottom: 22px;
+}
+
+
+h3
+{
+    font-family:'Times New Roman', Times, serif;
+}
+
+p
+{
+    margin: auto;
+    padding: 10px;
+    width: 60%;
+    border-style:double;
+    border-width: thin;
+    border-color: darkgray;
+    color: #333; 
+    font-size: 16px; 
+    text-align: left;
+}
+
+.D1
+{
+    color: white;
+    background-color: rgb(116, 114, 114);
+    margin-left: +222px;  
+}
+
+.D2
+{
+    margin-left: +230px;  
+    background-color: rgb(116, 114, 114);
+    color: white;
+}
+
+.D3
+{
+    margin-left: +230px;  
+    background-color: rgb(116, 114, 114);
+    color: white;
+}
+
+.D1:hover
+{
+    background-color: gray;
+    color: black;
+}
+
+.D2:hover
+{
+    background-color: gray;
+    color: black;
+}
+
+.D3:hover
+{
+    background-color: gray;
+    color: black;
+}
+
+.delete
+{
+    border-style: double;
+    border-width: thin;
+    border-color: darkgray;
+    width: 62%;
+    padding: 8px;
+   
+}
+
+.delete:hover
+{
+    background-color: cadetblue;
+    color: white;
+}
+
+.add
+{
+    padding: 2px;
+}
+
+.add:hover
+{
+    background-color: cadetblue;
+    color: white;
+}
+
+.ph1:hover
+{
+    background-color: cadetblue;
+    color: white;
+}
+
+.ph2:hover
+{
+    background-color: cadetblue;
+    color: white;
+}
+
+.ph3:hover
+{
+    background-color: cadetblue;
+    color: white;
+}
